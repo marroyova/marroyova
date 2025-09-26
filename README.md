@@ -80,8 +80,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/michael-arroyo-valenzuela-8458161a8"><img src="https://img.shields.io/badge/-Michael%20Arroyo%20Valenzuela-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/michael-arroyo-valenzuela"><img src="https://img.shields.io/badge/-Michael%20Arroyo%20Valenzuela-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:marroyova@gmail.com"><img src="https://img.shields.io/badge/-marroyova-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/marroyova"><img src="https://img.shields.io/badge/-marroyova-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/share/17575qvrui/"><img src="https://img.shields.io/badge/-Michael%20Arroyo-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/Marroyova"><img src="https://img.shields.io/badge/-Michael%20Arroyo-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
