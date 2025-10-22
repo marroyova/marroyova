@@ -8,7 +8,7 @@
 💡 &nbsp;Passionate about exploring emerging technologies and developing innovative software solutions.\
 🌱 &nbsp;Always learning and staying updated with the latest development trends and best practices.\
 ✍️ &nbsp;My hobbies include coffee brewing, exploring new places, and discovering local coffee shops.\
-📄 &nbsp;Check out my [Resume](https://1drv.ms/b/c/80f85514e3b9a9f0/ERZuxAk-oO5Lqedzc_c3lhQBX5fllvu87rLVV_ktLyHgPw) for comprehensive details. Feedback and suggestions are always welcome!
+📄 &nbsp;Check out my [Resume](./CV%20MikeArroyoV.docx) for comprehensive details. Feedback and suggestions are always welcome!
 
 <img src="./dev.gif" align="right" width="250px">
 
@@ -56,6 +56,7 @@
 ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![N8n](https://img.shields.io/badge/N8n-%23FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
 
 ### 🧠 &nbsp;Soft Skills
 ![Adaptability](https://img.shields.io/badge/Adaptability-4CAF50?style=for-the-badge&logoColor=white)&nbsp;
